@@ -1,5 +1,5 @@
 {
-  "name": "fourlabs/qbjs-parser",
+  "name": "cspurrie/qbjs-parser",
   "description": "Parse JSON coming from jQuery QueryBuilder, into database queries.",
   "license": "MIT",
   "homepage": "https://github.com/fourlabsldn/QBJSParser",
